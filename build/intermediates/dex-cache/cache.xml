@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_f35d11172be8e65112c9e023a742198820b9c7bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/org.puredata.android-pd-core-1.0.2_f860600b27735df3f5b9ac77ebdf4c740a72f768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_18ce34888e67038439cc7311944b589010493905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1a74c313b4db687cfddcb1bba21a70c50b21c5f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_6162918ba5d0a34c1b90aeabda04784eb92d1003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4c7cbbe4d4b1191cfc8b16e15b3f298fb9996ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1e13492f5f824246e8a66e0f5feec8a0f6a8f543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_fd0f3aeeab29e7f17968d1dc6967129d93d23772.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4a69e4435baf53c7c6eef726cce5274c32f690de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/com.noisepages.nettoyeur-midi-1.0.0-rc1_2a3d3b581caf663f20ae0dbc3820386d2cfb8c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4f328f358ae8ba206b6d8fcde672658c972530f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cca39f8d6bdff3915826fa0f1e04ce1f14efdd64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c7ea353d0673181f76c19010ab58eb358609cc8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/student/Downloads/updated-final-version-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_269076b0f3872d179ceea53625d3923bacb6e209.jar" />
+    </item>
+
+</items>
